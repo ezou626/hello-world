@@ -1,2 +1,3 @@
 # hello-world
-First legit repository
+First legit repository.
+This is part of a tutorial.
